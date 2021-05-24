@@ -1,6 +1,6 @@
 IMPORTANTS UNE IN TERMINAL
 
-pip install speedtest-cli  OR/  pip3 install speedtest-cli
+pip install speedtest-cli      OR/       pip3 install speedtest-cli
 
 VERRY IMPORTANS AND USE PYTHON3
 
