@@ -12,7 +12,7 @@ print ("""
 |_______ \_______  /____|_  /_______  /\____|__  /_______ \\_______   /______  /\______  //____/  
         \/       \/       \/        \/         \/        \/        \/       \/        \/       
         
-                 DOUBLE CLIK SLOWLY AND WHAIT PLEASE
+                 DOUBLE CLIK VERRY SLOWLY AND WHAIT PLEASE
 
         """)
 
